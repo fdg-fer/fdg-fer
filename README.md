@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou a Fernanda! 👋
 
-<!--
-**fdg-fer/fdg-fer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Analista / Engenheira de Dados apaixonada por transformar dados em decisões. Tenho experiência com:
 
-Here are some ideas to get you started:
+- 📊 SQL, Power BI, Python (pandas, matplotlib)
+- ☁️ Google Cloud Platform, BigQuery
+- 🧠 Estatística, Machine Learning (básico)
+- 🌎 Projetos nas áreas de energia, mobilidade e meio ambiente
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Meus projetos
+
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| [Análise de Recargas EV](https://github.com/usuario/projeto-ev) | Análise da expansão de recargas elétricas com matriz de correlação | Python, Power BI |
+| [NPS Dashboard](https://github.com/usuario/projeto-nps) | Análise de satisfação com visualização de sentimentos | SQL, Power BI |
+| [ETL de Benefícios INSS](https://github.com/usuario/projeto-inss) | Pipeline para análise de benefícios sociais | Python, BigQuery |
+
+## 📫 Contato
+
+- [LinkedIn](https://linkedin.com/in/fernanda)
+- fernanda@email.com
