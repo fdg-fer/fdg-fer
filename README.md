@@ -12,7 +12,7 @@ Sou Analista / Engenheira de Dados apaixonada por transformar dados em decisões
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
 | [ETL de Benefícios INSS](https://github.com/usuario/projeto-inss) | Pipeline para análise de benefícios sociais | Python, BigQuery |
-| [API Previsão do Clima em Capitais ](https://github.com/usuario/projeto-inss) | Manipulacão de dados com Python | Python, BigQuery |
+| [API Previsão do Clima em Capitais ](https://github.com/fdg-fer/api-previsao-clima-capitais) | Manipulacão de dados com Python | Python, BigQuery |
 
 ## 📫 Contato
 
