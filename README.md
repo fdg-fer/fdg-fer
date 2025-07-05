@@ -17,4 +17,4 @@ Sou Analista / Engenheira de Dados apaixonada por transformar dados em decisões
 ## 📫 Contato
 
 - [LinkedIn](https://linkedin.com/in/fernanda)
-- fernanda@email.com
+- ferdiasguima@gmail.com
