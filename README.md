@@ -2,9 +2,9 @@
 
 Sou Analista / Engenheira de Dados apaixonada por transformar dados em decisões. Tenho experiência com:
 
-- 📊 SQL, Power BI, Python (pandas, matplotlib)
+- 📊 SQL, Power BI, Python (pandas, requests)
 - ☁️ Google Cloud Platform, BigQuery
-- 🧠 Estatística, Machine Learning (básico)
+- 🧠 Estatística
 - 🌎 Projetos nas áreas de energia, mobilidade e meio ambiente
 
 ## 🚀 Meus projetos
