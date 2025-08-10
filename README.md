@@ -5,13 +5,13 @@ Sou Analista / Engenheira de Dados apaixonada por transformar dados em decisões
 - 📊 SQL, Power BI, Python (pandas, requests)
 - ☁️ Google Cloud Platform, Databricks
 - 🧠 Estatística
-- 🌎 Projetos nas áreas de energia, mobilidade e meio ambiente
+- 🌎 Projetos nas Sociais, Clima
 
 ## 🚀 Meus projetos
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [ETL de Benefícios INSS](https://github.com/fdg-fer/benef-concedidos-inss) | Pipeline para análise de benefícios sociais | Python, BigQuery |
+| [Arquitetura Medalhão - Análise BPC](https://github.com/fdg-fer/bpc-pipeline-databricks) | Arquitetura de Dados | SQL, PySpark, Databricks |
 | [API Previsão do Clima em Capitais ](https://github.com/fdg-fer/api-previsao-clima-capitais) | Manipulacão de dados com Python | Python, BigQuery |
 
 ## 📫 Contato
