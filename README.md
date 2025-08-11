@@ -5,7 +5,7 @@ Sou Analista / Engenheira de Dados apaixonada por transformar dados em decisões
 - 📊 SQL, Power BI, Python (pandas, requests)
 - ☁️ Google Cloud Platform, Databricks
 - 🧠 Estatística
-- 🌎 Projetos nas Sociais, Clima
+- 🌎 Projetos Sociais, Clima, B2C
 
 ## 🚀 Meus projetos
 
