@@ -16,5 +16,5 @@ Sou Analista / Engenheira de Dados apaixonada por transformar dados em decisões
 
 ## 📫 Contato
 
-- [LinkedIn](www.linkedin.com/in/fernandadiasguimaraes)
+- [LinkedIn]([Meu LinkedIn](https://www.linkedin.com/in/fernandadiasguimaraes)
 - fdiasguima@gmail.com
