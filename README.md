@@ -5,13 +5,13 @@ Sou Analista / Engenheira de Dados apaixonada por transformar dados em decisões
 - 📊 SQL, Power BI, Python (pandas, requests)
 - ☁️ Google Cloud Platform, Databricks
 - 🧠 Estatística
-- 🌎 Projetos Sociais, Clima, B2C
 
 ## 🚀 Meus projetos
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
 | [Arquitetura Medalhão - Análise BPC](https://github.com/fdg-fer/bpc-pipeline-databricks) | Arquitetura de Dados | SQL, PySpark, Databricks, Power BI |
+| [Análise RFV - Home Care](https://github.com/fdg-fer/rfv-homecare) | RFV | SQL, Python, Power BI |
 | [API Previsão do Clima em Capitais ](https://github.com/fdg-fer/api-previsao-clima-capitais) | Manipulacão de dados json | Python, Databricks |
 
 ## 📫 Contato
